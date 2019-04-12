@@ -1,0 +1,15 @@
+{
+  "name": "pinyinjs",
+  "version": "1.0.0",
+  "description": "中文转拼音工具",
+  "main": "pinyinUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chinese",
+    "pinyin"
+  ],
+  "author": "discoverforever",
+  "license": "MIT"
+}
